@@ -9,34 +9,6 @@ author:
   - Alexandra Ossola
 ---
 
-# MD Test
+# Plunderphonic Psychonautica
 
-
-Update test update test
-- Hello
-```python
-print("does this still work?")
-```
-
-$$ \frac{1}{2} $$
-with description
-
-with draft
-,
-with date
-
-with tags
-
-with author
-
-with tags and author filled
-
-test 2
-
-fsafsfafs
-
-fsfasd
-
-fdfdsfs
-
-fdfsfsafs
+Welcome!
