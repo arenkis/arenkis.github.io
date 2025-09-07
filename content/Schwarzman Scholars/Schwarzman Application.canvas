@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"5e6cc427b06e0bc6","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Bio.md","x":-680,"y":-320,"width":580,"height":640},
+		{"id":"d83c2d4602c30711","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Recommendations.md","x":-40,"y":-320,"width":600,"height":1740},
+		{"id":"af23c5bba76d445d","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Statement of Purpose Notes.md","x":1960,"y":-320,"width":600,"height":1480},
+		{"id":"251242ea5f1c776d","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Short Answer Questions.md","x":2640,"y":-320,"width":560,"height":1990},
+		{"id":"a3cb763545e33e3d","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Disciplinary Action.md","x":3300,"y":-320,"width":580,"height":1100},
+		{"id":"aee1903d84d0ff41","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Leadership Essay Notes.md","x":1360,"y":-320,"width":540,"height":3320},
+		{"id":"9680b108f44dc3c7","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Leadership Roles.md","x":640,"y":-320,"width":640,"height":1810},
+		{"id":"056a89ef2f8ed982","type":"text","text":"CLARIFICATION","x":3280,"y":-440,"width":600,"height":50},
+		{"id":"b9365af90c861f10","type":"text","text":"BACKGROUND","x":640,"y":-440,"width":640,"height":50},
+		{"id":"1bcd59d30138e841","type":"text","text":"WRITING","x":1360,"y":-440,"width":1840,"height":50},
+		{"id":"45b9af7f22e9493f","type":"text","text":"INTRODUCTION","x":-680,"y":-440,"width":580,"height":50},
+		{"id":"76e41d7bcc79ac82","type":"text","text":"RECOMMENDATIONS","x":-40,"y":-440,"width":600,"height":50},
+		{"id":"9f990975faafc73a","type":"text","text":"FELLOWSHIP INFORMATION","x":-1320,"y":-440,"width":580,"height":50},
+		{"id":"754e9895f3fe5f84","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Scholars Introduction with Alumni.md","x":-1320,"y":-320,"width":580,"height":920},
+		{"id":"14f7ad3b901013a9","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Video.md","x":-680,"y":360,"width":580,"height":1440},
+		{"id":"a95670c13243ff80","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Clarification Comment.md","x":3300,"y":880,"width":580,"height":960},
+		{"id":"26324751cdba3924","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Professional Experience.md","x":640,"y":1560,"width":640,"height":680},
+		{"id":"1d91a9e8d13c0077","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Leadership CV.md","x":640,"y":4120,"width":640,"height":1260},
+		{"id":"e428931d74702b41","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Awards and Recognitions.md","x":640,"y":2320,"width":640,"height":1720},
+		{"id":"cbe130d93eb446ed","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Leadership Essay.md","x":1360,"y":3040,"width":540,"height":2520},
+		{"id":"4a1f049d91b23de6","type":"file","file":"Public/Schwarzman Scholars/Schwarzman Statement of Purpose.md","x":1960,"y":1240,"width":600,"height":1420}
+	],
+	"edges":[]
+}

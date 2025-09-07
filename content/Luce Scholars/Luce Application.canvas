@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4486c62edf454b3e","type":"file","file":"Public/Luce Scholars/Luce Video.md","x":-800,"y":-320,"width":560,"height":1000},
+		{"id":"676dac401cf5c706","type":"file","file":"Public/Luce Scholars/Luce Honors and Awards.md","x":-160,"y":-320,"width":600,"height":600},
+		{"id":"732c9e55623c2ff0","type":"file","file":"Public/Luce Scholars/Luce Professional Interest Elaboration.md","x":-800,"y":760,"width":560,"height":840},
+		{"id":"fc1ca2decaf621b1","type":"file","file":"Public/Luce Scholars/Luce Recommenders.md","x":480,"y":-320,"width":600,"height":1160},
+		{"id":"7d1efc629b3d9961","type":"file","file":"Public/Luce Scholars/Luce Short Answer Questions Notes.md","x":1120,"y":-320,"width":880,"height":1280},
+		{"id":"58528bbb69de0472","type":"file","file":"Public/Luce Scholars/Luce Short Answer Questions Responses.md","x":1120,"y":1000,"width":880,"height":2040},
+		{"id":"8a6a9efe3bb20b11","type":"file","file":"Public/Luce Scholars/Luce Personal Statement Notes.md","x":2040,"y":-320,"width":1160,"height":1460},
+		{"id":"480765514b0daf74","type":"text","text":"RECOMMENDATIONS","x":480,"y":-440,"width":600,"height":50},
+		{"id":"98a586a7311add10","type":"text","text":"WRITING","x":1120,"y":-440,"width":2080,"height":50},
+		{"id":"31c8d884b9d683b7","type":"text","text":"BACKGROUND","x":-160,"y":-440,"width":600,"height":50},
+		{"id":"aadb6f8ba6d453fe","type":"text","text":"INTRODUCTION","x":-800,"y":-440,"width":560,"height":50},
+		{"id":"554f0b9662fbc369","type":"file","file":"Public/Luce Scholars/Luce Fellowship Info.md","x":-1440,"y":-320,"width":560,"height":4000},
+		{"id":"ce922c47d78cf0ba","type":"text","text":"FELLOWSHIP INFORMATION","x":-1440,"y":-440,"width":560,"height":50},
+		{"id":"50168c707d3d718b","type":"file","file":"Public/Luce Scholars/Luce Countries Visited.md","x":-160,"y":320,"width":600,"height":1100},
+		{"id":"9c653a0fe40099c3","type":"file","file":"Public/Luce Scholars/Luce Personal Statement.md","x":2040,"y":1200,"width":1160,"height":1760},
+		{"id":"63d85ec884be583a","type":"file","file":"Public/Luce Scholars/Luce Societies.md","x":-160,"y":1480,"width":600,"height":560}
+	],
+	"edges":[]
+}
