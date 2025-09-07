@@ -9,7 +9,7 @@ tags:
 links:
 ---
 # Draft 3
-
+aa
 Of all the myriad locations across Mexico City, my friends from the National Autonomous University of Mexico were most eager to show me Chinatown and the Chapultepec Zoo's Xin Xin, the only giant panda not on loan from China. "If you can speak Chinese, you can write your own salary," remarked Alejandro, alluding to the abundant binational economics and glaring knowledge gap. The conversation continued into their preferred study abroad destinations, not in the United States or Europe but Asia. The Beijing Education Commission began a partnership with their university months later. These trends became increasingly evident at my job researching entrepreneurship within emerging markets. "Unicorns," technology startups valued over one billion, no longer concentrated solely within the United States but the world with China as the runner-up. Amidst such personal revelations, it was hardly surprising that my coworker was applying to the Schwarzman Scholars inspired by a previous colleague. Her description had me hooked. 
 
 I was attracted to China in high school from policy debate and Mahayana Buddhism, but my college studies pulled me towards South America. Similar to Mexico, my immersion across the continent illuminated the false dichotomy with exposure to BRICS in Brazil and the Belt and Road in Peru. Indeed, bridging Latin American and Chinese business ecosystems carried enormous potential. Mexico seemed hospitable to startups yet dependent upon increasingly absent U.S. infrastructure. China appeared opportune but poorly understood by outsiders. Realizing this global potential would thus necessitate multilateral leadership.
