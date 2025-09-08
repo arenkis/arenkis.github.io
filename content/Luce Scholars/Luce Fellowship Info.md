@@ -1,12 +1,17 @@
 ---
 author:
   - Alex Renkis
-title:
+  - "{{author}}"
+title: Luce Fellowship Info
 source:
 created: 2025-09-07T11:16:21+00:00
 tags:
   - luce
 links:
+date: 2025-09-08T15:38:34+00:00
+description:
+draft: true
+permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 The Luce Scholars Program is a 13-month leadership development program that provides immersive, professional experiences in Asia. Designed to deepen mutual understanding and strengthen relationships across borders, the Luce Scholars Program emphasizes experiential learning rather than academic study. Scholars are not enrolled in a degree-granting program or engaged in traditional research, but instead participate in hands-on, cross-cultural, and professional learning through their language training and placements. The Luce Scholars Program is open to American citizens or permanent residents who are under 32 years of age, have received at least a bachelor’s degree, have demonstrated leadership potential and a record of high achievement, and possess a strong interest in deepening their engagement with Asia. Placements are currently possible in the following countries and regions: Cambodia, India, Indonesia, Japan, Laos, Malaysia, Mongolia, Nepal, Philippines, Singapore, South Korea, Taiwan, Thailand, Vietnam, Sri Lanka, and Timor Leste.
 

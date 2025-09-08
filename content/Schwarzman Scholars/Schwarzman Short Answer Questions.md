@@ -21,6 +21,10 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 
 Something about better serving software company, going back to graduate school, working in teh ecosystem, incorporate chinese philosophy into the design, 
 
+Schwarzman would provide the leadership capabilities to ground my humanities 
+
+As a founder, I wear multiple hats across legal, finance, 
+
 ## Draft 2
 
 I intend to rekindle cultural engagement with death by bridging practices from exemplars. Living in Buddhist monastic environments inspired the core philosophy, and Mexico's Day of The Dead transformed those ideas into a startup. The only culture as emphatic of ancestor worship and Mahayana Buddhism is China. The only program as tailored to innovation leadership is Schwarzman. I will study local funerary traditions through Deep Dive fieldwork in Mandarin, preparing for capstone research on China's aging population and limited urban burial space. Business mentorship coupled with technological internship will translate theory to practice. Then I can best serve my company.

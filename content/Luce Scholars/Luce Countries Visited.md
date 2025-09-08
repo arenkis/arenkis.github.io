@@ -1,12 +1,17 @@
 ---
 author:
   - Alex Renkis
-title:
+  - "{{author}}"
+title: Luce Countries Visited
 source:
 created: 2025-09-07T11:16:04+00:00
 tags:
   - luce
 links:
+date: 2025-09-08T15:38:18+00:00
+description:
+draft: true
+permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 Ireland 07/2025, Vacation, 2 weeks
 
