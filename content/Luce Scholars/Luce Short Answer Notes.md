@@ -1,3 +1,13 @@
+---
+title: Luce Short Answer Notes
+date: 2025-09-08T15:46:10+00:00
+description:
+draft: true
+permalink: "{{title | lower | replace(' ', '-')}}"
+author:
+  - "{{author}}"
+tags:
+---
 **Short Answer \#1**
 
 Use this space (maximum 250 words) to share what leadership means to you. Provide an example of a leader you admire and connect their actions to your own experiences, showing how their leadership has shaped the way you lead or aspire to lead.

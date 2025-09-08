@@ -1,11 +1,16 @@
 ---
 author:
   - Alex Renkis
-title: 
-source: 
+  - "{{author}}"
+title: Luce Short Answer Questions
+source:
 created: 2025-08-18T23:25:44+00:00
-tags: 
+tags:
 links:
+date: 2025-09-08T15:47:48+00:00
+description:
+draft: false
+permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 # Question 1: Leadership
 
