@@ -9,10 +9,69 @@ tags:
 links:
 date: 2025-09-07T11:31:31+00:00
 description:
-draft: false
+draft: true
 permalink: "{{title | lower | replace(' ', '-')}}"
 ---
+### Schwarzman Application Review - CV and Essays
 
+- CV feedback from counselor
+    
+    - Add perfect major GPA (4.0/4.0) after overall GPA
+    - Catherine (Vandy Business & Consulting coach) will review CV structure
+    - Intercultural experience section makes sense for this application
+    - Generally acceptable format
+        
+- Statement of purpose revisions
+    
+    - Successfully narrowed focus to death traditions within Chinese culture
+    - Strong connection drawn between ancestor worship, Mahayana Buddhism, aging population, technology embrace
+    - Moved from broad “bridge ecosystems” to specific China learning objectives
+
+### Video Concept Discussion
+
+- Proposed concept: Film at Nashville City Cemetery (digitized site)
+    - Wear white (traditional Chinese funeral color) with Schwarzman-colored tie
+    - Introduce self in cemetery setting
+- Counselor feedback
+    - Intrigued by concept but concerned about humanities vs. organizational leadership focus
+    - Will run by Dr. Lambert for appropriateness assessment
+    - Risk: may seem too humanities-focused for leadership scholarship
+- Alternative options prepared if needed
+    - Temple filming location
+    - Broader leadership overview approach
+
+### Essay Content Refinements
+
+- Short Answer #2 - Masonry leadership experience
+    - Research cultural perception in Chinese context first
+    - Be specific about leadership skills translation
+    - Cross-cultural component viable (global fraternity presence)
+    - Balance specificity with organizational discretion requirements
+- Short Answer #1 - Post-Schwarzman plans
+    - Interpret as future career trajectory question
+    - Frame around strengthening startup leadership through cultural understanding
+    - Emphasize organizational leadership development over humanities research
+    - Include network building and graduate school continuation plans
+
+### Application Strategy Concerns
+
+- Primary challenge: Balance humanities interest with organizational leadership focus
+    - Schwarzman prioritizes global leadership, not humanities studies
+    - Cultural understanding essential for startup success but frame as leadership tool
+    - Avoid suggesting China trip primarily for humanities research
+- Ethnographic research language problematic
+    - Sounds like independent humanities project priority
+    - Reframe as capstone component supporting leadership development
+    - Emphasize cultural competency necessity for respectful business leadership
+### Next Steps
+
+- Alex: Email availability for Thursday/Friday follow-up meeting
+- Counselor: Run video concept and CV by Dr. Lambert and Catherine today/tomorrow
+- Alex: Revise Short Answer #1 with post-graduation focus
+- Alex: Add major GPA to CV
+- Alex: Research Freemasonry cultural perception in China
+- Deadline: September 10, 2PM
+    
 # Overall: making application(s) submittable
 
 ## Schwarzman 
