@@ -9,7 +9,7 @@ tags:
 links:
 date: 2025-09-07T11:31:31+00:00
 description:
-draft: true
+draft: false
 permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 ### Schwarzman Application Review - CV and Essays
@@ -111,14 +111,14 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 	- I would really appreciate feedback as to what to do for this video
 	- Asks for something "that isn’t reflected elsewhere in your application"
 	- Could go cemetery route, temple route, masonry route; I am thinking of places that would be unique on camera
-- [[Luce Short Answer Questions Responses]] 1 review (5 mins)
+- [[Luce Short Answer Questions]] 1 review (5 mins)
 	- Adjusted leadership theory to include a story
 	- Mapped Thich Nhat Hanh to Buddhist-inspired startup, focus on initiative, community building, and communication that empowers others
 	- Need to ensure this does not come off as choppy or forced, or pivot otherwise
-- [[Luce Short Answer Questions Responses]] 2 review (5 mins)
+- [[Luce Short Answer Questions]] 2 review (5 mins)
 	- Incorporated feedback to make the story more specific
 	- Removed "coming of age" feelings in place of navigating cultural dynamics (hierarchies, specific cues, pressures, failures, success, etc.)
-- [[Luce Short Answer Questions Responses]] 3 review (5 mins)
+- [[Luce Short Answer Questions]] 3 review (5 mins)
 	- Since I reworked my personal statement (see below), I already discuss many elements of the Luce impact (placements, cultural immersion, etc.)
 	- I am wondering what to put for this question now
 - [[Luce Personal Statement]] review (10 mins)
