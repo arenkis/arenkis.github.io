@@ -25,15 +25,33 @@ and will not be tracked in your video’s view count.
 
 **1 minute**
 
+# Draft 4
+
+https://youtube.com/shorts/dgkdPGiblwg?si=VuGBlnbkC8f8XzVQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dgkdPGiblwg" frameborder="0" allowfullscreen></iframe>
+Ancient Wisdom, Modern Solutions: My Global Leadership Journey
+
+I'm sitting in Nashville City Cemetery. Behind me lie the stories of generations, yet it takes only three to lose a piece of oral family history. Most American families, including my own, struggle to remember even our great-grandparents' names.
+
+This disconnect with our heritage inspired my startup journey. When my friend couldn't even find his great-grandfather's grave, we recognized a crisis of memory in cultures that isolate death from daily life.
+
+My path led through Buddhist monasteries emphasizing the contemplation of impermanence, to Mexico as a Fulbright Fellow, where Day of the Dead showed me how entire cultures can honor their ancestors. These experiences all shaped Kapala, my cemetery digitization startup currently partnering with historic sites like this one.
+
+China has arguably the world's strongest connection to ancestor veneration, yet technology and tradition seamlessly merge. With Schwarzman, I'll immerse myself within this unique combination while gaining the leadership development necessary to scale globally inspired innovation.
+
+My vision is to bridge these cultural approaches by creating technology that enables families to reconnect with their heritage, ensuring collective wisdom endures.
+
+Tags: Schwarzman, China, Leadership, Entrepreneurship, Legacy, Death, Mexico, Buddhism
 # Draft 3
 
 I'm sitting in Nashville City Cemetery, home to over 21,000 graves dating back to the early 1700s. Behind me lie the stories of generations, yet it only takes three to lose a piece of oral family history. Most American families, including my own, struggle to remember even our great-grandparents' names.
 
 This disconnect with our heritage inspired my startup journey. When my friend couldn't find his great-grandfather's grave, we recognized a crisis of memory in cultures that isolate death from daily life.
 
-My path led through Buddhist monasteries emphasizing the contemplation of impermanence, then to Mexico as a Fulbright Scholar, where Day of the Dead showed me how entire cultures can honor ancestry. These experiences shaped Kapala, my cemetery digitization startup that's now partnering with historic sites like this one.
+My path led through Buddhist monasteries emphasizing the contemplation of impermanence, then to Mexico as a Fulbright Fellow, where Day of the Dead showed me how entire cultures can honor ancestry. These experiences shaped Kapala, my cemetery digitization startup that's now partnering with historic sites like this one.
 
-China has arguably the world's strongest tradition of venerating the dead, where Tomb-Sweeping Day brings millions to grave sites, yet technology and tradition seamlessly merge. With Schwarzman, I will immerse myself within this unique combination while gaining the leadership development necessary to scale globally inspired innovation.
+China has arguably the world's strongest tradition of venerating the dead, extending back to the Neolithic period, yet technology and tradition seamlessly merge. With Schwarzman, I will immerse myself within this unique combination while gaining the leadership development necessary to scale globally inspired innovation.
 
 My vision is to bridge these cultural approaches by creating technology that helps families reconnect with their heritage, ensuring that collective wisdom endures.
 

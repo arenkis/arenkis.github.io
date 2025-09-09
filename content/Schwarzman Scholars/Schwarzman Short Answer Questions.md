@@ -17,13 +17,18 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 
 **100 words**
 
+## Draft 4
+
+As a startup founder, I switch between roles like engineer, salesperson, and lawyer daily. Schwarzman peers and mentors exist across all such domains. However, founder and operator are distinct. Transitioning from the former to the latter requires not just subject breadth but leadership depth. Schwarzman provides both. The curriculum augments my global background with the missing China connection. That same network embodies the integrative leadership required for my progression throughout the year. I will live out those learnings through the startup before entering an innovation-focused business school like MIT or Stanford. 
+
+
+
+Founder and executive demand different muscles. As a founder, I switch between roles like engineer, salesperson, and lawyer. The Schwarzman network offers expertise in each domain while shaping my evolution into an executive leader. This transition requires more than ambition; it requires capability. Schwarzman provides both. The curriculum fills a critical gap in my global perspective with China exposure, while peers and mentors model the integrative leadership I need. These aren't abstract lessons but immediate applications that will prepare me for innovation-focused MBA programs at MIT or Stanford, where I'll scale my startup experience into executive impact.
+
 ## Draft 3
 
-Something about better serving software company, going back to graduate school, working in teh ecosystem, incorporate chinese philosophy into the design, 
 
-Schwarzman would provide the leadership capabilities to ground my humanities 
-
-As a founder, I wear multiple hats across legal, finance, 
+Founder and executive are distinct for startups. As the former, I wear numerous hats like engineer, salesperson, and lawyer. The Schwarzman network means having someone versed in each. Yet, my perpetual hat is leader. Those same connections would not just influence but define my startup leadership. However, transitioning from founder to executive only succeeds with proper executive capabilities. Schwarzman scales those ambitions. The curriculum augments my global background with the missing China connection. Peers and mentors embody the integrative leadership required for this next chapter. I will live out those learnings before entering an innovation-focused business school like MIT or Stanford. 
 
 ## Draft 2
 

@@ -19,7 +19,7 @@ selected Scholars at [<u>www.schwarzmanscholars.org/scholars</u>](https://www.sc
 
 # Draft 2
 
-Alex Renkis is the technical founder of Kapala, a National Science Foundation-supported startup transforming cemetery maps, memorials, and markets. As a Fulbright Fellow at the Autonomous Technological Institute of Mexico, he led publications for Endeavor while advising partners including the World Bank and Mexican government on business initiatives. A two-time Foreign Language and Area Studies Fellow, Alex has worked across venture capital, consulting, and public health. A multilingual patent holder and dual degree Phi Beta Kappa graduate, he aims to scale innovation at the nexus of technology and culture. Alex is a dual citizen of the United States and Latvia.
+Alex Renkis is the technical founder of Kapala, a National Science Foundation-supported startup transforming cemetery maps, memorials, and markets. As a Fulbright Fellow at the Autonomous Technological Institute of Mexico, he led publications for Endeavor while advising partners including the World Bank and Mexican government on business initiatives. A two-time Foreign Language and Area Studies Fellow, Alex has worked across venture capital, consulting, and public health. A multilingual patent holder and Phi Beta Kappa graduate, he aims to scale innovation at the nexus of technology and culture. Alex is a dual citizen of the United States and Latvia.
 
 # Draft 1
 
