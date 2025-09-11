@@ -8,42 +8,46 @@ tags:
   - schwarzman
 links:
 ---
-This section is an opportunity to showcase up to five leadership roles
-that illustrate your demonstrated leadership experience. For each entry,
-include a concise explanation of why the role is significant to your leadership profile, as well as your distinct contribution, outcome, or initiative. These activities will be displayed in order by the most recent start date.
+This section is an opportunity to showcase up to five leadership roles that illustrate your demonstrated leadership experience. For each entry, include a concise explanation of why the role is significant to your leadership profile, as well as your distinct contribution, outcome, or initiative. These activities will be displayed in order by the most recent start date.
 
 **75 words per entry**
 
-Kapala
-*Technical Founder*
+Lawrence Uren Associates
+*Research Lead*
 
-My co-founder and I bonded one evening about the paucity of information at burial sites. We prototyped a gravestone-attachable chip and conducted customer interviews that directed us to visitor-facing cemetery digitization. Though I built computers and software growing up, creating the full stack from scratch proved monumental. The software ultimately enabled pilot projects and tradeshow participations
-
- that attracted initial customers. I currently lead product development while wearing many hats.
+I proactively identified and pursued a consulting opportunity developing the strategic business plan for a $200M Mexican aviation project during my Fulbright Fellowship. Leading comprehensive intelligence efforts, I conducted quantitative market analysis and delivered bilingual research findings comparing U.S. and Mexican business practices and policies. My analysis became foundational to strategic planning sessions with senior government officials, culminating in direct presentations to a Mexican general and other high-ranking military officers overseeing critical multinational aerospace negotiations.
 
 Lodestone Ventures
 *Venture Capital Analyst*
 
-I was selected among peers for the one open spot, seeking experience with international capital markets. Assessing business models, sourcing deals at tech conferences, and meeting founders were all exhilarating tasks. Yet, internal processes for handling the deal flow demonstrated an organizational need. I utilized human-centered design to develop investor-approved proprietary backend software for managing startup prospects. I was voted to receive the Impact Award for my cohort, with the software still in use today.
+I was selected from a competitive applicant pool with 2% acceptance, seeking experience with international capital markets. Assessing business models, sourcing deals at tech conferences, and meeting founders were all exhilarating tasks. Yet, internal processes for handling the deal flow demonstrated an organizational need. I utilized human-centered design to develop investor-approved proprietary backend software for managing startup prospects. I was voted to receive the Impact Award for my cohort, with the software still in use.
 
 Association of Recovery in Higher Education
 *Board Member*
 
-I was elected to the board, aflame at the start of my tenure. The prior CEO had been fired amidst internal controversy. While serving on the governance and finance committees, I helped rewrite institutional policy to define better boundaries for the future leader. The process did not mitigate my original contributions. I setup channels to incorporate student voices into the decision-making process and co-founded the still enduring research committee to integrate the latest recovery research.
+I was elected to the national board, aflame at the start of my tenure. The prior CEO had been fired amidst internal controversy. While serving on the governance and finance committees, I helped rewrite institutional policy to define better boundaries for the future leader. The process did not mitigate my original contributions. I established channels to incorporate student voices into the decision-making process and co-founded the still enduring research committee to integrate theory with practice.
 
 Accelerator
-*Lead Consultant*
+*Lead Consultant, Ambassador*
 
-I entered Accelerator as a consultant to find my niche within a business career. I was elected to lead consulting for a Fortune 500, though working with a startup and prototyping an app for an innovation-oriented multinational corporation kindled my present passion for innovation. Senior leadership selected our team for excellence in research. I was awarded team MVP twice and the highest 360 feedback scores of all consultants that summer.
+Appointed ambassador from 60+ peers, I entered Accelerator to discover my business niche. I was voted to lead consulting for a Fortune 500 to optimize retail space, though ultimately marketing for a startup and prototyping apps for a Japanese multinational corporation kindled my passion for innovation. Senior leadership selected our team twice for excellence in research. I was likewise awarded two team MVPs and received the highest 360 feedback scores of all consultants that summer.
+
 
 Nada-Winchester International Symposium
 *Delegate for the United States*
 
-I was chosen from my entire class as one of two United States representatives at a global symposium in Japan for select young leaders across a dozen countries. My delegation exchanged monthly essays with our international peers and delivered a presentation on nuclear energy at the Tennessee Oak Ridge laboratory. All nations present collectively produced a proposal addressing society and the natural world. A convincing talk even kickstarted my conversion to vegetarianism.
+I was chosen as the one person from my entire class to represent the United States at a global symposium in Japan for top student leaders across a dozen countries. My delegation exchanged monthly essays with our international peers and delivered a presentation on nuclear energy regarding the Tennessee Oak Ridge laboratory. All nations collectively produced a collaborative proposal addressing society and the natural world. A particularly convincing talk even kickstarted my conversion to vegetarianism.
 
 ---
 
 # Alternatives
+
+
+Kapala
+*Technical Founder*
+
+My co-founder and I bonded one evening about the paucity of information at burial sites. We prototyped a gravestone-attachable chip and conducted customer interviews that directed us to visitor-facing cemetery digitization. Though I built computers and software growing up, creating the full stack from scratch proved monumental. The software enabled pilot projects and trade show participations that attracted initial customers. Venture capitalists and angels offered investment. I currently lead technical developments while wearing many hats.
+
 
 Vanderbilt Recovery Support
 *Member / Speaker*

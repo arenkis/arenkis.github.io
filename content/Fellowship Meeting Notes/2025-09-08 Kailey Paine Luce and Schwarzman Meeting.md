@@ -94,7 +94,7 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 	- I may have already filmed this when we discuss it
 	- Planning to film it in a cemetery
 	- Again, went for the central thread since it is meant to be an introduction rather than like in the Luce which is something specific you have not shared
-- [[Schwarzman Leadership Essay]] review (10 mins)
+- [[Schwarzman Leadership Essay Drafts]] review (10 mins)
 	- Mostly revised the first and last paragraphs after receiving feedback from another applicant
 	- Slightly more explicit about leadership approach, adding a few sentences here or there referencing the specific traits I lived out
 - [[Schwarzman Bio]] check (1 min)

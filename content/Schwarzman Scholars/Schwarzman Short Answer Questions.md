@@ -17,10 +17,20 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 
 **100 words**
 
-## Draft 4
+## Draft 7
+
+Exhausted urban cemeteries, three hundred million aging citizens, yet profound ancestral reverence. China's death care transformation represents Kapala's defining opportunity and my critical blind spot. Beyond market dynamics, I must understand how China digitizes tradition without diminishing meaning. Schwarzman's Beijing immersion offers unparalleled access to leaders navigating this exact tension. Through curriculum modules and peer insights from government and technology sectors, I will discover how innovation scales within cultural frameworks. The lifelong network multiplies my capacity to navigate cultural and institutional complexity. This year transforms me from a founder solving local problems to a leader building global infrastructure for remembrance.
+
+## Draft 6
+
+China's death care transformation—300 million aging citizens, exhausted urban cemeteries, yet profound ancestral reverence—represents Kapala's defining opportunity and my critical blind spot. Beyond market dynamics, I must understand how China digitizes tradition without diminishing meaning. Schwarzman's Beijing immersion offers unparalleled access to leaders navigating this exact tension. Through curriculum modules and peer insights from government and technology sectors, I will discover how innovation scales within cultural frameworks. The lifelong network becomes my bridge to stakeholders shaping global cemetery infrastructure. This year positions me to architect death-tech solutions honoring diverse traditions while addressing universal demographic pressures facing every nation.
+
+
+## Draft 5
 
 As a startup founder, I switch between roles like engineer, salesperson, and lawyer daily. Schwarzman peers and mentors exist across all such domains. However, founder and operator are distinct. Transitioning from the former to the latter requires not just subject breadth but leadership depth. Schwarzman provides both. The curriculum augments my global background with the missing China connection. That same network embodies the integrative leadership required for my progression throughout the year. I will live out those learnings through the startup before entering an innovation-focused business school like MIT or Stanford. 
 
+## Draft 4
 
 
 Founder and executive demand different muscles. As a founder, I switch between roles like engineer, salesperson, and lawyer. The Schwarzman network offers expertise in each domain while shaping my evolution into an executive leader. This transition requires more than ambition; it requires capability. Schwarzman provides both. The curriculum fills a critical gap in my global perspective with China exposure, while peers and mentors model the integrative leadership I need. These aren't abstract lessons but immediate applications that will prepare me for innovation-focused MBA programs at MIT or Stanford, where I'll scale my startup experience into executive impact.
@@ -41,6 +51,19 @@ My ideal trajectory is a founder-facilitator-funder who connects the United Stat
 # 2. Tell us something about yourself the Admissions Committee would not otherwise know based on the other parts of this application.
 
 **100 words**
+
+
+### Draft 4
+
+- favorite fun leadership, building computers and hosting servers with friends
+- bringing dozens of people together for the digital version of the social deduction game Mafia, called Trouble in Terrorist Town
+- Valve Source game engine to add custom mods, like playing as George Bush
+- making my friend into a playable character as a joke, which was somehow added to over 460 mod collections including that of a youtuber with 25 million subscribers
+- playing the admin role when things were unbalanced or just not working
+- connecting with people from all over the world when not playing with just friends
+- continue that passion for computers, networking, and feedback with kapala
+
+An amusing adolescent leadership experience of mine involved building computers and hosting game servers that brought dozens of friends together for a digital version of the social deduction game Mafia. As admin, I balanced gameplay and resolved technical issues while connecting players worldwide. Using Valve's Source engine, I managed and created custom mods, including turning George Bush and my friend into playable characters. That friend-mod joke somehow spread to over 460 collections, even reaching a YouTuber with 25 million subscribers. This passion for computers, networking, and community feedback was reborn through Kapala, where I blend technical skills with collaborative problem-solving.
 
 ### Draft 3
 
