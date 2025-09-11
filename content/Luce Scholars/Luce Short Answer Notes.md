@@ -16,6 +16,8 @@ Use this space (maximum 250 words) to share what leadership means to you. Provid
 
 - Thich Nhat Hanh, engaged buddhism
 
+write a response to this question Use this space (maximum 250 words) to share what leadership means to you. Provide an example of a leader you admire and connect their actions to your own experiences, showing how their leadership has shaped the way you lead or aspire to lead. using the following information as my "example leader" ()
+
 **Short Answer \#2**
 
 Use this space (maximum 250 words) to describe how you contribute to a team dynamic. Highlight the strengths and qualities you bring to collaborative work, and share an example that illustrates the role you typically take in a group.

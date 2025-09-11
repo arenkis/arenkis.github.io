@@ -14,6 +14,20 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 # Question 1: Leadership
 
+## Draft 3
+
+“Hi, I'm Alex, and I'm an addict.”
+
+When I first met Michael Brody-Waite, he seemed just another person in recovery. Only later did I discover he built an Inc. 500 company while staying clean, mirroring my entrepreneurial dreams. He succeeded because recovery taught him three principles: practice rigorous authenticity, do uncomfortable work, and surrender the outcome.
+
+These principles constituted my leadership vision. When my co-founder and I launched cemetery software, customer interviews revealed harsh truths: elderly people avoided discussing death; mortuary professionals rejected physical products. We admitted to partners we were two young founders who barely understood their industry. That honesty opened doors polished pitches could not.
+
+My Fulbright in Mexico the following year tested every boundary. Operating professionally in my second language became especially challenging amidst the marigolds and mourners of Day of the Dead. Yet, this unfamiliar situation revealed how communities transform grief into connection, reshaping our value proposition from individual to community legacies.
+
+Our funeral industry trade show investment forced the hardest lesson. After months of preparation, we desperately wanted guaranteed returns on investment. Staffing our poorly located booth, watching cemetery directors pass, we had to release that need for control. We did our best, then waited. Weeks later, dozens expressed purchase intent and venture capitalists offered investment only because we surrendered.
+
+Mike proves his point by remaining in the rooms despite running companies. The principles that save addicts' lives are the same ones that create great leaders. The difference is, for us, they are not optional.
+
 ## Draft 2
 
 Leadership means translating vision to impact by meeting people where they are. I most admire exemplar Thich Nhat Hanh for his "engaged Buddhism." The Vietnamese Thiền master left retreat during wartime to organize peaceful activism, established monastic communities while in exile, and still practiced mindful communication throughout.

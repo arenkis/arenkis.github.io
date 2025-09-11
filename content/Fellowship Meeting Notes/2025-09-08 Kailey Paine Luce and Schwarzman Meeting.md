@@ -9,7 +9,7 @@ tags:
 links:
 date: 2025-09-07T11:31:31+00:00
 description:
-draft: false
+draft: true
 permalink: "{{title | lower | replace(' ', '-')}}"
 ---
 ### Schwarzman Application Review - CV and Essays
