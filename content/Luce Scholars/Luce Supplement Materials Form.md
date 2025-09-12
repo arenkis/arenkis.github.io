@@ -18,3 +18,5 @@ Research
 Intellectual Property
 - Patent: https://ppubs.uspto.gov/api/pdf/downloadPdf/9669274?requestToken=eyJzdWIiOiIzNmE4YTAwZS1mZWIxLTRjMGItYjY4Ny1hOTI2NjVkMDU3ZDgiLCJ2ZXIiOiJjNjgyNTdjNy0xMTUzLTRhZjctYTgzMS0xMmRiZWY0ZDFhZDYiLCJleHAiOjB9
 - Trademark: https://tsdrsec.uspto.gov/ts/cd/casedocs/sn98670276/mega-bundle-download?case=true&docs=&assignments=&prosecutionHistory=
+Leadership CV
+- 

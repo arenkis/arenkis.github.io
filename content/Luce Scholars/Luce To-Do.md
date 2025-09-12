@@ -31,7 +31,7 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 
 ## Application Components
 
-- [ ] **Short Answers**: Complete revisions (lower priority after Schwarzman essay)
+- [x] **Short Answers**: Complete revisions (lower priority after Schwarzman essay)  [completion:: 2025-09-11]
 - [x] **Personal Statement**: Continue rewrite review process  [completion:: 2025-09-04]
 
 ## Personal Statement (≤1,000 words)
@@ -56,8 +56,8 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 
 ## Leadership Short Answer
 
-- [ ]  **Condense theory**: Limit leadership values discussion to 1-2 sentences
-- [ ]  **Add concrete narrative**: Choose one specific story demonstrating leadership in practice
-- [ ]  **Show vs. tell**: Demonstrate leadership principles through embodied examples
-- [ ]  **Practitioner focus**: Emphasize hands-on capability over theoretical knowledge
-- [ ]  **Connect to Luce**: Link to fellowship's practical, on-ground nature
+- [x] **Condense theory**: Limit leadership values discussion to 1-2 sentences  [completion:: 2025-09-11]
+- [x] **Add concrete narrative**: Choose one specific story demonstrating leadership in practice  [completion:: 2025-09-11]
+- [x] **Show vs. tell**: Demonstrate leadership principles through embodied examples  [completion:: 2025-09-11]
+- [x] **Practitioner focus**: Emphasize hands-on capability over theoretical knowledge  [completion:: 2025-09-11]
+- [x] **Connect to Luce**: Link to fellowship's practical, on-ground nature  [completion:: 2025-09-11]

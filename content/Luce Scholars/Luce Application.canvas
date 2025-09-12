@@ -11,11 +11,12 @@
 		{"id":"98a586a7311add10","type":"text","text":"WRITING","x":1120,"y":-440,"width":2080,"height":50},
 		{"id":"31c8d884b9d683b7","type":"text","text":"BACKGROUND","x":-160,"y":-440,"width":600,"height":50},
 		{"id":"aadb6f8ba6d453fe","type":"text","text":"INTRODUCTION","x":-800,"y":-440,"width":560,"height":50},
-		{"id":"554f0b9662fbc369","type":"file","file":"Public/Luce Scholars/Luce Fellowship Info.md","x":-1440,"y":-320,"width":560,"height":4000},
+		{"id":"554f0b9662fbc369","type":"file","file":"Public/Luce Scholars/Luce Fellowship Info.md","x":-1440,"y":-320,"width":560,"height":5960},
 		{"id":"ce922c47d78cf0ba","type":"text","text":"FELLOWSHIP INFORMATION","x":-1440,"y":-440,"width":560,"height":50},
 		{"id":"9c653a0fe40099c3","type":"file","file":"Public/Luce Scholars/Luce Personal Statement.md","x":2040,"y":1200,"width":1160,"height":2200},
 		{"id":"63d85ec884be583a","type":"file","file":"Public/Luce Scholars/Luce Societies.md","x":-160,"y":2960,"width":600,"height":720},
-		{"id":"50168c707d3d718b","type":"file","file":"Public/Luce Scholars/Luce Countries Visited.md","x":-160,"y":1180,"width":600,"height":1680}
+		{"id":"50168c707d3d718b","type":"file","file":"Public/Luce Scholars/Luce Countries Visited.md","x":-160,"y":1140,"width":600,"height":1720},
+		{"id":"3e3ad2a88baa7336","x":-160,"y":3760,"width":600,"height":4760,"type":"file","file":"Public/Luce Scholars/Luce Professional Experiences.md"}
 	],
 	"edges":[]
 }
