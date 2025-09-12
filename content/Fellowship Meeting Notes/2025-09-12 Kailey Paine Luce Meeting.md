@@ -47,4 +47,5 @@ permalink: "{{title | lower | replace(' ', '-')}}"
 	- Please let me know if it is mistaken
 	- Not even sure if internships are overstepping, though I am assuming they are classified as "professional experiences
 	- Each experience says "Employment #"
+	- Would Phi Beta Kappa go under academic honors societies and "List any learned, scientific, professional or artistic societies of which you are a member. (optional)"?
 
